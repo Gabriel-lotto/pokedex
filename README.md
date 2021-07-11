@@ -1,11 +1,11 @@
 # pokedex
 
-## Project setup and Dependencies
+## Como instalar as dependências
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar e rodar no servidor local
 ```
 yarn serve
 ```
